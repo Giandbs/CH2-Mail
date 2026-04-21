@@ -11,11 +11,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		812C3D9F2F97470B00827D39 /* Models */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Models;
-			sourceTree = "<group>";
-		};
 		812C3DAA2F97470B00827D39 /* CH2-Mail */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "CH2-Mail";
@@ -37,7 +32,6 @@
 		81C8640F2F93558D009E18D5 = {
 			isa = PBXGroup;
 			children = (
-				812C3D9F2F97470B00827D39 /* Models */,
 				812C3DAA2F97470B00827D39 /* CH2-Mail */,
 				81C864192F93558D009E18D5 /* Products */,
 			);
